@@ -1,0 +1,41 @@
+AMALITE PROJECT - FIRELINE TECHNOLOGIES - ION
+COPYRIGHT (C) 2013
+
+---AMALITE---
+Amalite Project is a working title for Fireline Technologies of ION PHP Framework.
+Amalite framework is fast, manageable, and object oriented. Because of it, its
+only support PHP 5. PHP 4 user will have to use another framework.
+
+Amalite is divided into many sub framework. Each framework doesnt have any relation
+with the other framework. Many of these framework have different design pattern.
+The target of this division is to make people have more options to choose which framework
+to use.
+
+The name Amalite came from Avaga chronicles. Amalite is the guardian of Alcyone Tower. He
+guard every treasure, every area, including the top of the tower. He wield the Partillia Massa
+sword to protect the tower.
+
+Alcyone Tower is a stone-made tower that is 1000 meter high. Its big, and it doesnt have conical
+structure like other tower out there. It was built by The Great Avaga. It have a cylinder form,
+and on top of it is where Partillia Massa stored.
+
+---PARTILLIA---
+Partillia is the first sub-framework of Amalite. Its adapt XMVC (Extended Model View Controller)
+design pattern. Its easy to use, easy to configure, fast, lightweight, stable, and supported
+with a large amount of libraries.
+
+*ABOUT XMVC
+XMVC is an extended version of MVC (Model View Controller). The X stands for everything as an extension.
+Partillia describe X as followings:
+    1. Code Helper / Controller Manager (Side-to-side to controller, used to pack a method used by the primary controller)
+    2. View Helper / View Generator (Side-to-side to view, used to pack a predefined view generator method)
+    3. Model Helper / Model Adapter (Side-to-side to model, used to transfer model data to database)
+
+Partillia is the name of sword from Avaga chronicles, Partillia Massa. It is the most powerful sword in Avaga.
+The name Partillia means particle, Massa means Mass, Particle Mass. It have destructive power and
+able to destroy 40m thick iron wall. Its so sharp, and its emit a blue energy called Metatronite.
+
+---CREDITS---
+Programmer : Aditya Purwa
+Design     : Aditya Purwa
+Others     : Deanny Ratna Sari
